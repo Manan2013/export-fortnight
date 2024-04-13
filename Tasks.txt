@@ -1,0 +1,5 @@
+1.Gather knowledge about anonymous user account implementation.
+2.Implement it.
+3.Create floating form to detect mental health level of student.
+4.If needed, recommend to counsellor, else chat with mental 
+health assistant AI (woebot,replica, and so on).
